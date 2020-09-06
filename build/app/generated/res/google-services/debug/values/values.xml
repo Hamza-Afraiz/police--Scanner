@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">558255502353-ceuh2h5e2mig60c6julogdg23u1sb9jr.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://policescabbwe.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">558255502353</string>
+    <string name="google_api_key" translatable="false">AIzaSyBTKoJXtFqugz5850wAwC1If0PO0mK7qDE</string>
+    <string name="google_app_id" translatable="false">1:558255502353:android:85818a6675c1d2543a2db0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBTKoJXtFqugz5850wAwC1If0PO0mK7qDE</string>
+    <string name="google_storage_bucket" translatable="false">policescabbwe.appspot.com</string>
+    <string name="project_id" translatable="false">policescabbwe</string>
+</resources>
